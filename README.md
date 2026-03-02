@@ -15,4 +15,5 @@ This repository contains an AI-based project that utilizes external APIs and a m
 ---
 
 ## 📁 Project Structure
+project is not completed yet
 
